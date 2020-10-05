@@ -3,4 +3,11 @@
     <string name="app_name">Lab1</string>
     <string name="hello_message">안녕하세요</string>
     <string name="ButtonText">버튼입니다</string>
+    <string name="toast_message">"여기에 정보가 있습니다"</string>
+    <string name="snackbar_message">"스위치가 꺼져있습니다"</string>
+    <string name="text_view">"내 GUI를 보세요"</string>
+    <string name="button">"여기를 클릭하세요"</string>
+    <string name="checkbox">"여기를 확인하세요"</string>
+    <string name="switchText">"스위치 온/오프"</string>
+    <string name="editText">"여기에 적으세요"</string>
 </resources>
