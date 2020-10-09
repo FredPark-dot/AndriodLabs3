@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Lab3</string>
     <string name="hello_message">안녕하세요</string>
     <string name="ButtonText">버튼입니다</string>
     <string name="toast_message">"여기에 정보가 있습니다"</string>
@@ -10,4 +10,15 @@
     <string name="checkbox">"여기를 확인하세요"</string>
     <string name="switchText">"스위치 온/오프"</string>
     <string name="editText">"여기에 적으세요"</string>
+    <string name="tView1">"이메일을 적으세요:"</string>
+    <string name="emailText1">"이메일을 여기에 적으세요"</string>
+    <string name="tView2">"비밀번호를 적으세요:"</string>
+    <string name="eText2">"비밀번호를 여기에 적으세요:"</string>
+    <string name="btn">"로그인"</string>
+    <string name="tView3">"프로파일"</string>
+    <string name="tView5">"이메일"</string>
+    <string name="emailText2">"이메일을 입력하세요"</string>
+    <string name="eText3">"이름을 입력하세요""</string>
+    <string name="pic">"사진"</string>
+    <string name="image_message">"위의 버튼을 눌러 사진을 찍으세요"</string>
 </resources>
